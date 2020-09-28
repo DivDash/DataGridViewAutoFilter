@@ -27,7 +27,8 @@ To see it in action, visit the [Demo] repository...
 **Contribution is Most Welcome** 
 
 - Clone this repository using command 
-`git clone https://github.com/telic-solutions/DataGridViewAutoFilter.git`
+
+ `git clone https://github.com/telic-solutions/DataGridViewAutoFilter.git`
 
 - Integrate more features by creating branches & sending Pull Requests.
 
