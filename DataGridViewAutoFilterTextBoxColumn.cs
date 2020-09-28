@@ -158,7 +158,7 @@ namespace DataGridViewAutoFilter
         /// <returns>A string in the format "x of y records found" where x is 
         /// the number of rows currently displayed and y is the number of rows 
         /// available, or String.Empty if all rows are currently displayed.</returns>
-        public static String GetFilterStatus(DataGridView dataGridView)
+        public static string GetFilterStatus(DataGridView dataGridView)
         {
             return DataGridViewAutoFilterColumnHeaderCell.GetFilterStatus(dataGridView);
         }
