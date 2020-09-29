@@ -5,7 +5,7 @@ In July 2006, Karl Erickson from Microsoft Corporation introduced  [DataGridView
 
 On 02/07/2014,  [zqb] released the first Nuget Package of this library which was in Chinese language.
 
-After some code modifications, introducing DataGridViewAutoFilter with multi-language options along with some bug fixes.Download the nuget package from [here].
+After some code modifications, introducing an updated [Nuget version] of DataGridViewAutoFilter with multi-language options along with some bug fixes.
 
 ## Languages
 - Arabic
@@ -44,5 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
  
  [Demo]: https://github.com/telic-solutions/DataGridViewAutoFilterDemo.git
  
- [here]: https://www.nuget.org/packages/DataGridView-AutoFilter
- 
+ [Nuget version]: https://www.nuget.org/packages/DataGridView-AutoFilter
