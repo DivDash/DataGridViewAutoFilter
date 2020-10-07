@@ -154,7 +154,8 @@ namespace DataGridViewAutoFilter
             "Español",//2
             "日本人",//3
             "中文",//4
-            "English" //5
+            "English", //5
+            "русский" //6
             });
             languageSelector.Location = new Point(288, 13);
             languageSelector.Name = "languageSelector";
@@ -205,6 +206,7 @@ namespace DataGridViewAutoFilter
                 case 3: LanguageHandler.userChoice = "ja"; break;
                 case 4: LanguageHandler.userChoice = "zh"; break;
                 case 5: LanguageHandler.userChoice = "en"; break;
+                case 6: LanguageHandler.userChoice = "ru"; break;
             }
             Properties.Settings.Default.Language = LanguageHandler.userChoice;
             Properties.Settings.Default.Save();

@@ -28,6 +28,7 @@ namespace DataGridViewAutoFilter
                 case "ja": userChoice = "ja"; break;
                 case "zh": userChoice = "zh"; break;
                 case "en": userChoice = "en"; break;
+                case "ru": userChoice = "ru"; break;
             }
 
             resourceManager = new ResourceManager("DataGridViewAutoFilter.lang_" + userChoice,
@@ -46,6 +47,7 @@ namespace DataGridViewAutoFilter
                 case "ja": languageSelector.SelectedIndex = 3; break;
                 case "zh": languageSelector.SelectedIndex = 4; break;
                 case "en": languageSelector.SelectedIndex = 5; break;
+                case "ru": languageSelector.SelectedIndex = 6; break;
             }
         }
     }
