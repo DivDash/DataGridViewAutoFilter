@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Avaruz.DataGridViewAutoFilter</id>
+    <version>1.0.3</version>
+    <title>Avaruz DataGridViewAutoFilter</title>
+    <authors>Telic Solutions Incorporation, Avaruz</authors>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Avaruz/DataGridViewAutoFilter</projectUrl>
+    <icon>DataGridViewAutoFilter.png</icon>
+    <repository type="git" url="https://github.com/Avaruz/DataGridViewAutoFilter" />
+    <description>Avaruz DataGridViewAutoFilter</description>
+    <releaseNotes>Updated to .Net framework 4.8</releaseNotes>
+    <copyright>Copyright (c) 2020 Telic Solutions Incorporation, Avaruz 2022</copyright>
+    <tags>DataGridView AutoFilter</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="DataGridViewAutoFilter.png" target="" />
+  </files>
+</package>
